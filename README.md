@@ -1,8 +1,6 @@
-## Login Validation (Dart)
- An example of multi-user Login Validation in Dart
+# Login Validation
+ An Multi-User Login Validation in Dart
  
- By Default it has 4 records.
+ By Default it has 4 users.
  
  The User Data is stored in the file lib/userData.dart
- 
- 
